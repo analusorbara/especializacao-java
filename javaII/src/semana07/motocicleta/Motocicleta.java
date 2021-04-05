@@ -1,4 +1,4 @@
-package motocicleta;
+package semana07.motocicleta;
 
 class Motocicleta implements Runnable {
     private final int nome;

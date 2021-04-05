@@ -1,4 +1,4 @@
-package lebres;
+package semana07.lebres;
 
 import java.util.Random;
 

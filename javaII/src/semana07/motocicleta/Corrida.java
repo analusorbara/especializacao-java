@@ -1,4 +1,4 @@
-package motocicleta;
+package semana07.motocicleta;
 
 import java.util.*;
 import java.util.concurrent.CountDownLatch;
