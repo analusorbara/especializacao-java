@@ -1,4 +1,4 @@
-package threadsExemplo;
+package lebres;
 
 import java.util.Random;
 
@@ -6,12 +6,12 @@ class Lebre extends Thread {
     private final String nome;
     private final Corrida t;
 
-    Lebre(String nome, Corrida t){
+    Lebre(String nome, Corrida t) {
         this.t=t;
         this.nome = nome;
     }
 
-    public void run(){
+    public void fazUmSalto() {
         t.salta(nome, salto());
     }
 

@@ -1,8 +1,8 @@
-package threadsExemplo;
+package lebres;
 
 import java.util.*;
 
-public class Lebres {
+public class Main {
     public static void main(String[] args) {
         Corrida corrida = new Corrida();
 
@@ -14,9 +14,13 @@ public class Lebres {
             add(new Lebre("Zan", corrida));
         }};
 
-        for (Lebre l : lebres) {
-            l.start();
+        while (corrida.getGanhou() == null) {
+            for (Lebre l : lebres) {
+                l.fazUmSalto();
+            }
         }
+
+        System.out.println("Ganhou: " + corrida.getGanhou());
 
         try {
             Thread.sleep(400);
