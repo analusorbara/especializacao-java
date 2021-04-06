@@ -1,0 +1,13 @@
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/entity/CidadeTotal.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/entity/SemEndereco.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/SpringDataConfig.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/repository/ContatoRepository.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/JavadbApplication.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/entity/Contato.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/SpringAutditingConfig.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/service/ContatoService.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/service/EnderecoService.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/SpringSecuirtyAuditorAware.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/repository/EnderecoRepository.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/entity/NomeCidade.java
+/Users/polotto/github/especializacao-java/bancoDeDados/exercicio10/src/main/java/edu/utfpr/javadb/entity/Endereco.java
